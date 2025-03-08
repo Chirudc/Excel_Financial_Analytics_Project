@@ -1,9 +1,9 @@
 # Excel_Financial_Analytics_Project
 
-# AtliQ Hardwares - Financial Analytics Project
+## AtliQ Hardwares - Financial Analytics Project
 
 ## Project Goals
-The objective of this project is to analyze financial performance by generating Profit & Loss (P&L) reports:
+The objective of this project is to analyze financial performance by generating Profit & Loss (P&L) reports for AtliQ Hardwares:
 1. **P&L Reports by Fiscal Year**
 2. **P&L Reports by Market**
 
